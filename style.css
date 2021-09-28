@@ -40,7 +40,15 @@ main {
     font-size: 2rem;
     font-family: cursive;
     font-weight: bold;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 35px;
+    padding-bottom: 35px;
     text-align: center;
+}
+
+footer {
+    height: 35px;
+    width: 400px;
+    background-color: red;
+    margin-left: 10px;
+    border-radius: 0 0 20px 20px;
 }
